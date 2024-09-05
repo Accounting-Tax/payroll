@@ -32,3 +32,54 @@
 - **Update Event**: A correction submitted outside of a regular pay event to rectify errors in previously reported data.
 - **Finalisation Declaration**: A confirmation made at the end of the financial year that all payroll information is correct.
 
+# TD 2021/6: Reasonable Travel and Overtime Meal Allowance (2021–22)
+
+## What This Determination Covers
+This determination sets out the reasonable travel and overtime meal allowance expense amounts for employees for the 2021–22 income year.
+
+### Applicable Situations:
+- **Overtime meal expenses**: Expenses for food and drink when working overtime.
+- **Domestic travel expenses**: For accommodation, food, drink, and incidentals when traveling overnight for work.
+- **Overseas travel expenses**: For food, drink, and incidentals during overseas work travel.
+
+### Conditions:
+The determination applies when an allowance is received to cover these expenses. If no allowance is received, the determination does not apply.
+
+## Overtime Meal Expenses
+- For the 2021–22 income year, the reasonable overtime meal expense is **$32.50**.
+
+### Example 1:
+- Samantha, a local government employee, worked overtime and spent $20 on a meal. Since the amount is below the reasonable limit, she can claim a deduction without substantiation.
+
+## Domestic Travel Expenses
+- Reasonable amounts are provided for three salary levels for domestic travel:
+  - **Salary up to $129,250**
+  - **Salary between $129,251 and $230,050**
+  - **Salary $230,051 and above**
+  
+### Categories of Expenses:
+- **Accommodation**: Short stays in commercial establishments.
+- **Meals**: Breakfast, lunch, and dinner based on the period of travel.
+- **Incidentals**: Covers incidental expenses incurred during travel.
+
+### Example 2:
+- Svetlana, an accountant, traveled for work and received a meal and incidental allowance. She spent less than the reasonable limit and can claim deductions without substantiation.
+
+## Domestic Travel for Truck Drivers
+- Specific reasonable amounts for truck drivers:
+  - **Breakfast**: $26.15
+  - **Lunch**: $29.85
+  - **Dinner**: $51.50
+
+### Example 3:
+- Glenn, a truck driver, spent less than the reasonable amount on meals and can claim deductions for the full amount without substantiation.
+
+## Overseas Travel Expenses
+- Reasonable amounts for overseas travel depend on salary levels and destination cost groups.
+
+### Example 4:
+- Prashant, an employee with a salary of $191,000, travels to China. His total meal and incidental expense is less than the reasonable amount, allowing him to claim the deduction without substantiation.
+
+## Date of Effect
+- This determination applies to the 2021–22 income year only.
+
